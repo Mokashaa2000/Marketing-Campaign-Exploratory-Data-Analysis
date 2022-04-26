@@ -59,6 +59,13 @@ import seaborn as sns
 ```
 # Visualizations
 
-![]
+![asd](https://github.com/Mokashaa2000/Marketing-Campaign-Exploratory-Data-Analysis/blob/main/Images/education.GIF)
+
+![qwd](https://github.com/Mokashaa2000/Marketing-Campaign-Exploratory-Data-Analysis/blob/main/Images/violin.GIF)
+
+![qqq](https://github.com/Mokashaa2000/Marketing-Campaign-Exploratory-Data-Analysis/blob/main/Images/vis.GIF)
+
+
+
 
 
